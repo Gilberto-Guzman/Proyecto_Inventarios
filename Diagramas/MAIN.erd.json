@@ -4,9 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -166.6666,
-    "scrollLeft": -24.3432,
-    "zoomLevel": 0.88,
+    "scrollTop": -83.3333,
+    "scrollLeft": -652.7778,
+    "zoomLevel": 0.97,
     "show": 431,
     "database": 1,
     "databaseName": "MAIN",
@@ -60,7 +60,7 @@
     "tableEntities": {
       "IVFL0tVOqoKbhTHys2c68": {
         "id": "IVFL0tVOqoKbhTHys2c68",
-        "name": "ENTIDADES",
+        "name": "entidades",
         "comment": "",
         "columnIds": [
           "a2Ylt0NMtvJaB4V9I-bzp"
@@ -73,18 +73,18 @@
           "x": 42.0048,
           "y": 85.3375,
           "zIndex": 2,
-          "widthName": 63,
+          "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268927317,
+          "updateAt": 1729287073955,
           "createAt": 1729267035614
         }
       },
       "ic8qI8cXoM7FoDHA6eZO2": {
         "id": "ic8qI8cXoM7FoDHA6eZO2",
-        "name": "USUARIOS",
+        "name": "usuarios",
         "comment": "",
         "columnIds": [
           "9TMxcuD0BUhpN_NJtKaI_",
@@ -104,13 +104,13 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1729269413823,
+          "updateAt": 1729287077442,
           "createAt": 1729267061375
         }
       },
       "LQ6xqThd9sB75yziJ29q4": {
         "id": "LQ6xqThd9sB75yziJ29q4",
-        "name": "ROLUSUARIO",
+        "name": "rolUsuario",
         "comment": "",
         "columnIds": [
           "8-0oERPNzY8WVxk0RaI4j",
@@ -124,18 +124,18 @@
           "x": 42.3018,
           "y": 503.1609,
           "zIndex": 24,
-          "widthName": 73,
+          "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1729269419914,
+          "updateAt": 1729287084660,
           "createAt": 1729267148685
         }
       },
       "dPNIQ1drtSQcs5zYD5J6k": {
         "id": "dPNIQ1drtSQcs5zYD5J6k",
-        "name": "ROLES",
+        "name": "roles",
         "comment": "",
         "columnIds": [
           "UTWwgy9OiObGfYdOBK8jG"
@@ -152,13 +152,13 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287088598,
           "createAt": 1729267312802
         }
       },
       "AblPsS5f9kFkxgnlNHuR4": {
         "id": "AblPsS5f9kFkxgnlNHuR4",
-        "name": "ACCIONES",
+        "name": "acciones",
         "comment": "",
         "columnIds": [
           "nWRI1Fpaj_fn8Uwt67FQ8"
@@ -176,13 +176,13 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287092535,
           "createAt": 1729267594938
         }
       },
       "h5wO3PYGvf-QvEnUodwWD": {
         "id": "h5wO3PYGvf-QvEnUodwWD",
-        "name": "FUNCIONALIDADES",
+        "name": "funcionalidades",
         "comment": "",
         "columnIds": [
           "SQD28Msh3wGhA4fl0rNt_",
@@ -197,18 +197,18 @@
           "x": 1460.2844,
           "y": 259.2923,
           "zIndex": 57,
-          "widthName": 107,
+          "widthName": 85,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287122364,
           "createAt": 1729267603794
         }
       },
       "MZzQgWsKLlCjdaTvkv_5n": {
         "id": "MZzQgWsKLlCjdaTvkv_5n",
-        "name": "MODULO",
+        "name": "modulo",
         "comment": "",
         "columnIds": [
           "vlOwlrHNzAnlBEOfDUz3H",
@@ -227,13 +227,13 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287126657,
           "createAt": 1729267633855
         }
       },
       "PZABfmy4YQI78cd8GmzKI": {
         "id": "PZABfmy4YQI78cd8GmzKI",
-        "name": "X",
+        "name": "x",
         "comment": "",
         "columnIds": [
           "pUcs85xaL2-tF5Mlo2jyS",
@@ -254,13 +254,13 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287459200,
           "createAt": 1729267928705
         }
       },
       "ljgpQ-ut5b5LoN7vA-yQR": {
         "id": "ljgpQ-ut5b5LoN7vA-yQR",
-        "name": "ROL_FUNCIONES",
+        "name": "rolFunciones",
         "comment": "",
         "columnIds": [
           "Oq66Upuo2UT2nBchDN9dJ",
@@ -277,12 +277,12 @@
           "x": 971.268,
           "y": 301.5578,
           "zIndex": 117,
-          "widthName": 93,
+          "widthName": 69,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1729268909617,
+          "updateAt": 1729287111663,
           "createAt": 1729268053900
         }
       }
@@ -1058,7 +1058,7 @@
       1729267035613,
       -1,
       {
-        "name": 1729267048264
+        "name": 1729287073955
       }
     ],
     "hYEQ0o8cybYRYyJaygNWA": [
@@ -1072,7 +1072,7 @@
       1729267061374,
       -1,
       {
-        "name": 1729267074532
+        "name": 1729287077441
       }
     ],
     "a2Ylt0NMtvJaB4V9I-bzp": [
@@ -1094,7 +1094,7 @@
       1729267148685,
       -1,
       {
-        "name": 1729267659549
+        "name": 1729287084660
       }
     ],
     "dPNIQ1drtSQcs5zYD5J6k": [
@@ -1102,7 +1102,7 @@
       1729267312801,
       -1,
       {
-        "name": 1729267316007
+        "name": 1729287088598
       }
     ],
     "UTWwgy9OiObGfYdOBK8jG": [
@@ -1154,7 +1154,7 @@
       1729267594938,
       -1,
       {
-        "name": 1729267598551
+        "name": 1729287092535
       }
     ],
     "0aqdazY0rmgx7ASNWK84R": [
@@ -1168,7 +1168,7 @@
       1729267603794,
       -1,
       {
-        "name": 1729267625651
+        "name": 1729287122363
       }
     ],
     "MZzQgWsKLlCjdaTvkv_5n": [
@@ -1176,7 +1176,7 @@
       1729267633854,
       -1,
       {
-        "name": 1729267637056
+        "name": 1729287126656
       }
     ],
     "vlOwlrHNzAnlBEOfDUz3H": [
@@ -1234,7 +1234,7 @@
       1729267928704,
       -1,
       {
-        "name": 1729267933854
+        "name": 1729287459199
       }
     ],
     "nyOI0O3XLXTc96FCJCwZx": [
@@ -1300,7 +1300,7 @@
       1729268053899,
       -1,
       {
-        "name": 1729268061986
+        "name": 1729287111663
       }
     ],
     "ikq-YP-qxaD-XxkVSaS1Q": [
